@@ -29,7 +29,7 @@ p {
     
 }
 
-h1, p, button {
+h1, p, a {
     text-align: left; /* Tekst links uitlijnen */
     margin-left: 10%; /* Verschuif de tekst 10% naar rechts */
 }
