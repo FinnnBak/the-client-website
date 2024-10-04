@@ -4,6 +4,8 @@ Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tij
 
 De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
 
+file:///C:/Users/finnb/OneDrive/Documenten/GitHub/the-client-website/the-client-website/drop_and_heal/drop_and_heal.html
+
 
 
 ## Inhoudsopgave Readme
