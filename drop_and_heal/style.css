@@ -2,23 +2,38 @@ body {
     background-color: rgb(4, 0, 0);
     color: rgb(252, 253, 252);
     margin: 0; /* Verwijder standaard marge */
-    font-family: Figtree; 
+    font-family: Figtree;
+    
 }
 
-h1, h2, p {
-    color: rgb(252, 253, 252);
+
+.header-container {
+    position: relative; /* Nodig voor het positioneren van de overlay */
+    text-align: center; /* Centreert de tekst */
 }
+
+.background-image {
+    width: 50%; /* Laat de afbeelding de breedte van de container vullen */
+    height: 50%; /* Behoudt de verhoudingen van de afbeelding */
+    z-index: 1; /* Zorgt dat de afbeelding achter de tekst blijft */
+}
+
 
 h1 {
     font-family: Calvino Grande Trial;
-font-size: 75px;
-font-weight: 800;
-line-height: 59px;
-text-align: left;
-
-
+    font-size: 75px;
+    font-weight: 800;
+    line-height: 59px;
+    text-align: left;
+    position: absolute; /* Absoluut positioneren ten opzichte van de container */
+    top: 50%; /* Plaatst de tekst verticaal in het midden */
+    left: 50%; /* Plaatst de tekst horizontaal in het midden */
+    transform: translate(-50%, -50%); /* Centreert de tekst */
+    color: white; /* Kleur van de tekst */
+    font-size: 100px; /* Grootte van de tekst */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Schaduw voor betere leesbaarheid */
+    margin: 0; /* Verwijder standaard marge */
 }
-
 
 p {
     max-width: 500px;
@@ -31,49 +46,18 @@ p {
     
 }
 
-h1, p, a {
+a {
     text-align: left; /* Tekst links uitlijnen */
     margin-left: 10%; /* Verschuif de tekst 10% naar rechts */
 }
 
-a {
-   
 
-}
 
 /* Nieuwe CSS voor de afbeelding en tekst */
 .container {
     position: relative; /* Positionering voor de overlay tekst */
     width: 100%; /* Breedte van de container */
     margin: auto; /* Centreert de container */
-}
-
-
-.header-container {
-    position: relative; /* Nodig voor het positioneren van de overlay */
-    text-align: center; /* Centreert de tekst */
-}
-
-.background-image {
-    width: 50%; /* Laat de afbeelding de breedte van de container vullen */
-    height: 50%; /* Behoudt de verhoudingen van de afbeelding */
-    
-    
-    z-index: 1; /* Zorgt dat de afbeelding achter de tekst blijft */
-}
-
-h1 {
-    position: absolute; /* Absoluut positioneren ten opzichte van de container */
-    top: 50%; /* Plaatst de tekst verticaal in het midden */
-    left: 50%; /* Plaatst de tekst horizontaal in het midden */
-    transform: translate(-50%, -50%); /* Centreert de tekst */
-    color: white; /* Kleur van de tekst */
-    font-size: 100px; /* Grootte van de tekst */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Schaduw voor betere leesbaarheid */
-    margin: 0; /* Verwijder standaard marge */
-}
-
-.container {
     margin: 20px; /* Ruimte rondom de tekstcontainer */
     text-align: left; /* Tekst links uitlijnen */
 }
