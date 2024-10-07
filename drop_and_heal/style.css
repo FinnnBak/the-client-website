@@ -16,7 +16,9 @@ font-weight: 800;
 line-height: 59px;
 text-align: left;
 
+
 }
+
 
 p {
     max-width: 500px;
@@ -46,16 +48,6 @@ a {
     margin: auto; /* Centreert de container */
 }
 
-img {
-   
-    width: 373.21px;
-height: 370px;
-top: 179px;
-left: -111px;
-gap: 0px;
-opacity: 0px;
-
-}
 
 .header-container {
     position: relative; /* Nodig voor het positioneren van de overlay */
