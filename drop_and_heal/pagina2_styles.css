@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(4, 0, 0);
+    color: rgb(252, 253, 252);
+    margin: 0; 
+    font-family: Figtree;
+    text-align: center;
+    
+    font-size: 16px;
+}
+
+.background-image {
+    width:100%; 
+    height: 100%; 
+    z-index: 1; 
+}
+
+
+.container {
+    position: relative; 
+    width: 100%; 
+    margin: auto; 
+    margin: 40px; 
+    text-align: left; 
+}
+
+p {
+    font-family: Calvino Grande Trial;
+    margin-top: 1%;
+    font-weight: 250;
+    line-height: 30px;
+    text-align: left;
+    position: absolute; /* Absoluut positioneren ten opzichte van de container */
+    top: 50%; /* Plaatst de tekst verticaal in het midden */
+    left: 50%; /* Plaatst de tekst horizontaal in het midden */
+    transform: translate(-50%, -50%); /* Centreert de tekst */
+    color: white; /* Kleur van de tekst */
+    margin-bottom: 15%;
+    
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Schaduw voor betere leesbaarheid */
+    margin: 1; /* Verwijder standaard marge */
+}
+
+a {
+    display: inline-block;
+    width: 60px; /* Breedte van de cirkel */
+    height: 60px; /* Hoogte van de cirkel */
+    line-height: 60px; /* Zorgt dat de tekst gecentreerd is binnen de cirkel */
+    text-align: center;
+    background-color: rgb(4, 0, 0); /* Achtergrondkleur van de cirkel */
+    color: rgb(255, 252, 252); /* Kleur van de tekst in de cirkel */
+    border-radius: 50%; /* Maakt het element een cirkel */
+    text-decoration: none; /* Verwijder onderstreping van de link */
+    position: absolute;
+    bottom: -155px; /* Plaatst het element 20px van de onderkant */
+    left: 50%; /* Centreer het element horizontaal */
+    transform: translateX(-50%); /* Zorgt ervoor dat het precies in het midden staat */
+    font-size: 24px; /* Tekstgrootte binnen de cirkel */
+    font-weight: bold;
+    transition: background-color 0.3s; /* Animatie voor hover-effect */
+    border: 1px solid white;
+}
+
+/* Hover-effect voor a-tag */
+a:hover {
+    background-color: #0056b3; /* Verander de achtergrondkleur bij hover */
+    color: rgb(4, 0, 0); /* Verander de tekstkleur bij hover */
+}

@@ -13,11 +13,18 @@ body {
 }
 
 .background-image {
-    width: 50%; /* Laat de afbeelding de breedte van de container vullen */
+    width:50%; /* Laat de afbeelding de breedte van de container vullen */
     height: 50%; /* Behoudt de verhoudingen van de afbeelding */
     z-index: 1; /* Zorgt dat de afbeelding achter de tekst blijft */
 }
-
+/* Nieuwe CSS voor de afbeelding en tekst */
+.container {
+    position: relative; /* Positionering voor de overlay tekst */
+    width: 100%; /* Breedte van de container */
+    margin: auto; /* Centreert de container */
+    margin: 20px; /* Ruimte rondom de tekstcontainer */
+    text-align: left; /* Tekst links uitlijnen */
+}
 
 h1 {
     font-family: Calvino Grande Trial;
@@ -36,28 +43,43 @@ h1 {
 }
 
 p {
-    max-width: 500px;
+    max-width: 400px;
     font-family: Figtree;
     font-size: 16px;
     font-weight: 400;
     line-height: 22px;
     text-align: left;
     min-width: 250px;
-    
+    margin-left: 20%;
+    margin-top: -12%;
+    left: 30%
 }
 
 a {
-    text-align: left; /* Tekst links uitlijnen */
-    margin-left: 10%; /* Verschuif de tekst 10% naar rechts */
+    text-align: center; /* Tekst l/r uitlijnen */
+    display:inline-block;
+    margin-left: 30%; /* Verschuif de tekst % naar rechts */
 }
 
+.link-button {
+    display: inline-block;
+    width: 200px; /* Breedte van de rechthoek */
+    height: 60px; /* Hoogte van de rechthoek */
+    padding: 0; /* Geen padding */
+    line-height: 60px; /* Verticaal centreren */
+    text-align: center; /* Horizontaal centreren */
+    color: white; /* Tekstkleur */
+    text-decoration: none; /* Verwijder onderstreping */
+    border-radius: 15px; /* Maak de hoeken afgerond */
+    background-color: rgb(4, 0, 0); /* Achtergrondkleur */
+    border: 1px solid white;
+    box-sizing: border-box;
+    transition: background-color 0.3s; /* Effect voor achtergrondkleurverandering */
 
 
-/* Nieuwe CSS voor de afbeelding en tekst */
-.container {
-    position: relative; /* Positionering voor de overlay tekst */
-    width: 100%; /* Breedte van de container */
-    margin: auto; /* Centreert de container */
-    margin: 20px; /* Ruimte rondom de tekstcontainer */
-    text-align: left; /* Tekst links uitlijnen */
+}
+
+.link-button:hover {
+    background-color: #0056b3;
+    color:rgb(4, 0, 0)
 }
