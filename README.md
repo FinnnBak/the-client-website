@@ -1,5 +1,6 @@
 # Intro
 De opdrachtgever waar ik voor werk is Drop&Heal. Drop&Heal ondersteunt jongvolwassenen in hun rouwprocess en biedt gepersonaliseerde hulp op basis van de fase van rouwen. Van ons werd verwacht dat wij een werkkende webapp zouden maken die nog niet volledig af is.
+file:///C:/Users/finnb/OneDrive/Documenten/GitHub/the-client-website/the-client-website/drop_and_heal/uitleg-metafoor.html
 # Beschrijving
 Op mijn webapp kan je doormiddel van de start en de pijltjes onderin op de pagina switchen tussen de verschillende pagina's.
 ![image](https://github.com/user-attachments/assets/36364557-7ae3-411d-9808-23ab1f5cded1)
