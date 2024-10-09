@@ -3,7 +3,8 @@ De opdrachtgever waar ik voor werk is Drop&Heal. Drop&Heal ondersteunt jongvolwa
 # Beschrijving
 Op mijn webapp kan je doormiddel van de start en de pijltjes onderin op de pagina switchen tussen de verschillende pagina's.
 
-<img width="200" alt="image" src=![image](https://github.com/user-attachments/assets/b40c1a9d-5b29-4811-be7d-40987ce51f02)>
+<img width="200" alt="image" src=![image](https://github.com/user-attachments/assets/36364557-7ae3-411d-9808-23ab1f5cded1)
+>
 ![image](https://github.com/user-attachments/assets/029a3879-bab7-4587-a22d-53c377816cc4)
 ![image](https://github.com/user-attachments/assets/fcbaba38-d0b6-4ec5-86b3-1c0b90a7a589)
 
