@@ -2,6 +2,8 @@
 De opdrachtgever waar ik voor werk is Drop&Heal. Drop&Heal ondersteunt jongvolwassenen in hun rouwprocess en biedt gepersonaliseerde hulp op basis van de fase van rouwen. Van ons werd verwacht dat wij een werkkende webapp zouden maken die nog niet volledig af is.
 # Beschrijving
 Op mijn webapp kan je doormiddel van de start en de pijltjes onderin op de pagina switchen tussen de verschillende pagina's.
+# Kenmerken
+Het belangrijkste uit mijn CSS bestand zijn de <a> links zodat je kan schakelen naar de volgende pagina's en de arrows waarmee je naar de vorige en volgende pagina kan gaan.
 
 ![image](https://github.com/user-attachments/assets/36364557-7ae3-411d-9808-23ab1f5cded1)
 ![image](https://github.com/user-attachments/assets/029a3879-bab7-4587-a22d-53c377816cc4)
