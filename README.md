@@ -2,7 +2,7 @@
 De opdrachtgever waar ik voor werk is Drop&Heal. Drop&Heal ondersteunt jongvolwassenen in hun rouwprocess en biedt gepersonaliseerde hulp op basis van de fase van rouwen. Van ons werd verwacht dat wij een werkkende webapp zouden maken die nog niet volledig af is.
 # Beschrijving
 Op mijn webapp kan je doormiddel van de start en de pijltjes onderin op de pagina switchen tussen de verschillende pagina's.
-<img width="250" alt="images"rc=![image](https://github.com/user-attachments/assets/4bfb5492-2b56-4feb-9cbe-78fac8480037)>
+<img width="200" alt="image"src=![image](https://github.com/user-attachments/assets/4bfb5492-2b56-4feb-9cbe-78fac8480037)>
 ![image](https://github.com/user-attachments/assets/029a3879-bab7-4587-a22d-53c377816cc4)
 ![image](https://github.com/user-attachments/assets/fcbaba38-d0b6-4ec5-86b3-1c0b90a7a589)
 
