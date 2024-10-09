@@ -1,6 +1,12 @@
+# Intro
+De opdrachtgever waar ik voor werk is Drop&Heal. Drop&Heal ondersteunt jongvolwassenen in hun rouwprocess en biedt gepersonaliseerde hulp op basis van de fase van rouwen. Van ons werd verwacht dat wij een werkkende webapp zouden maken die nog niet volledig af is.
+# Beschrijving
+Op mijn webapp kan je doormiddel van de start en de pijltjes onderin op de pagina switchen tussen de verschillende pagina's.
+![image](https://github.com/user-attachments/assets/4bfb5492-2b56-4feb-9cbe-78fac8480037)
+
 # The Client - Website
 
-Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review.
+Ontwerp en maak een website voor een opdrachtgever en bespreek het resultaat tijdens de Sprint Review. 
 
 De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fdnd-task/the-client-website/blob/main/docs/INSTRUCTIONS.md)
 
